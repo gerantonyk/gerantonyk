@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gerantonyk
-- 👀 I’m interested in new techbologies, music, sports
-- 🌱 I’m currently learning Blockchain, js
+- 👀 I’m interested in new technologies, music, sports
+- 🌱 I’m currently learning solidity and js
 - 💞️ I’m looking to collaborate on dapp proyects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/germán-suárez-53782783">Linkdin</a>
 <!---
