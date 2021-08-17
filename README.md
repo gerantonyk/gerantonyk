@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @gerantonyk
+# Hi👋 I´m Germán! 👾
+### Full stack web developer, tech lead, blockcain enthusiast* 
+*Also video game lover
+
+-  Hi, I’m @gerantonyk
 - 👀 I’m interested in new technologies, music, sports
 - 🌱 I’m currently learning solidity and js
 - 💞️ I’m looking to collaborate on dapp proyects
