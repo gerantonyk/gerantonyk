@@ -4,6 +4,7 @@
 ### Full stack web developer, tech lead, blockcain enthusiast, math teacher* 
 *Sophophilic
 
+<i class="devicon-react-original-wordmark"></i>
 
 <!-- in your body -->
 <i class="devicon-react-original-wordmark"></i>
