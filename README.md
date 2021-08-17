@@ -1,7 +1,12 @@
-# Hi👋 I´m Germán!<img src="https://img.icons8.com/ios/50/000000/ethereum.png"/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+
+# 👋 Hi I´m Germán!
 ### Full stack web developer, tech lead, blockcain enthusiast, math teacher* 
 *Sophophilic
 
+
+<!-- in your body -->
+<i class="devicon-react-original-wordmark"></i>
 - 👀 I’m interested in new technologies, music, sports, books
 - 💞️ I’m looking to collaborate on dapp proyects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/germán-suárez-53782783">Linkdin</a>
