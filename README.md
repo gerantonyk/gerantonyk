@@ -1,10 +1,8 @@
-# Hi👋 I´m Germán! 👾
-### Full stack web developer, tech lead, blockcain enthusiast* 
-*Also video game lover
+# Hi👋 I´m Germán!<img src="https://img.icons8.com/ios/50/000000/ethereum.png"/>
+### Full stack web developer, tech lead, blockcain enthusiast, math teacher* 
+*Sophophilic
 
--  Hi, I’m @gerantonyk
-- 👀 I’m interested in new technologies, music, sports
-- 🌱 I’m currently learning solidity and js
+- 👀 I’m interested in new technologies, music, sports, books
 - 💞️ I’m looking to collaborate on dapp proyects
 - 📫 How to reach me <a href="https://www.linkedin.com/in/germán-suárez-53782783">Linkdin</a>
 <!---
