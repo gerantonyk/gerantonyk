@@ -4,15 +4,15 @@
 [<img align="left" alt="ger.antonyk | Gmail" width="28px" src="./gmail.svg" />][gmail]
 <br>
 
-## I'm a full stack web developer, tech lead, blockcain enthusiast, math teacher and a sophophilic (i love learning)
+## I'm a full stack web developer, tech lead, blockcain enthusiast, math teacher and a sophophilic (I love learning)
 
 <br>
 
-I've been working as a tech/project leader for the past 8 years. Last year I decided to upgrade my stack so i started henry's bootcamp. Currently I'm doing projects with JavaScript and Node but I'been taking solidity and blockchain courses also.
+I've been working as a tech/project leader for the past 8 years. Last year, I decided to upgrade my stack, so I started henry's bootcamp. Currently, I'm doing projects with JavaScript and Node, but I've been taking solidity and blockchain courses also.
 
 I'm hoping to colaborate in blockchain projects.
 
-We got the third place on Didi's hackathon with our project Civica:
+We got third place on Didi's hackathon with our project Civica:
 <br><br><br>
 <div align="center">
   [<img align="center" alt="Civica - institucional" title="Civica - institucional - Click to Watch!!!" src="./Civica.png" />][civica]
