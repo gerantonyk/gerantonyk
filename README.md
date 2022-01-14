@@ -4,7 +4,7 @@
 [<img align="left" alt="ger.antonyk | Gmail" width="28px" src="./gmail.svg" />][gmail]
 <br>
 
-## I'm a full stack web developer, tech lead, blockchain enthusiast, math teacher and a sophophilic (I love learning)
+## I'm a blockchain developer, tech lead, math teacher and a sophophilic (I love learning)
 
 <br>
 
